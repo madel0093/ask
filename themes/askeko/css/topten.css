@@ -1,0 +1,49 @@
+.container{
+ width:100%;
+ font-family: Arial;
+  margin-right: 2px;
+ }
+ 
+.record{
+ float: left;
+ width: 100%;
+ border: 1px solid #ccc;
+ background-color: #f0f0f0;
+ margin-bottom: 2px;
+ -moz-border-radius: 0px 10px 10px 0px;
+ -moz-border-radius: 0px 10px 10px 0px;
+ }
+ 
+.bar {
+ background: transparent url(gradient.png) repeat-x top left;
+ float: left;
+ clear: left;
+ height: 30px;
+ }
+ 
+.bar span{
+ font-size: 12px;
+ font-weight: bold;
+ color: #fff;
+ float: left;
+ margin-left: 5px;
+ margin-top: 7px;
+ }
+ 
+.p{
+ padding-top: 3px;
+ float: right;
+ color: #6D8591;
+ clear: right;
+ font-size: 12px;
+ font-weight: bold;
+ height: 25px;
+ }
+ 
+.p span{
+ font-size: 12px;
+ font-weight: bold;
+ float: left;
+ margin-right: 5px;
+ margin-top: 5px;
+ }
